@@ -1,0 +1,2 @@
+- 🔧腾讯交互翻译：https://transmart.qq.com/zh-CN/file
+- 🔨PDF拆分合并工具集在线：https://www.ilovepdf.com/zh-cn
